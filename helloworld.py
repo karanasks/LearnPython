@@ -120,7 +120,19 @@ Mathematical Operations:
 # for x in range(100):
 #     print(x)
 
+#
+# mydict = {83:  80}
+# txt = "Hello Sam!"
+# print(txt.translate(mydict))
+#
+# # List:
+# # Ordered, changeable, allows duplicates
+# myList = ["a", "b", 1, 2, 3.0, True, False]
+#
+# myList.remove(1)
+# print(myList)
+# print(len(myList))
 
-mydict = {83:  80}
-txt = "Hello Sam!"
-print(txt.translate(mydict))
+# Tuples:
+# Ordered, not changeable, allows duplicates
+myList = ["a", "b", 1, 2, 3.0, True, False]
